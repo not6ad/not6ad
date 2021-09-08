@@ -2,7 +2,8 @@
 - 👀 I’m interested in girls.
 - 🌱 I’m currently learning pentagon.
 - 💞️ I’m looking to collaborate on rockstar.
-- 📫 How to reach me no way.
+- 📫 How to reach me
+-  no way.
 
 <!---
 not6ad/not6ad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
